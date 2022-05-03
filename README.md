@@ -6,11 +6,11 @@
 
 <img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" />
 
-<img align="left" alt="Node.js" width="40px" src="https://habrastorage.org/getpro/habr/post_images/aec/abe/cc6/aecabecc60e10637e2a9982c111c9460.png" />
+<img align="left" alt="Node.js" width="40px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" />
 
 <img align="left" alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
 
-<img align="left" alt="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="CSS" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" />
 
 <img align="left" alt="WebPack" width="40px" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" />
 
