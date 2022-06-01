@@ -6,6 +6,10 @@
 
 <img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" />
 
+<img align="left" alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
+
+<img align="left" alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+
 <img align="left" alt="Node.js" width="40px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" />
 
 <img align="left" alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
